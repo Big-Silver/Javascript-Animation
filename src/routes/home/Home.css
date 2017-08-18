@@ -20,7 +20,7 @@
   max-width: var(--max-content-width);
 }
 
-.newsItem {
+/* .newsItem {
   margin: 0 0 2rem;
 }
 
@@ -46,4 +46,4 @@
   img {
     max-width: 100%;
   }
-}
+} */
